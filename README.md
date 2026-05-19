@@ -1,16 +1,22 @@
-## Hi there 👋
+## Mateusz Nitka
 
-<!--
-**mateusznitka/mateusznitka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Backup Enginner
+- Poland 🇵🇱
+- Commvault, Veeam
+- Homelabs enjoyer
 
-Here are some ideas to get you started:
+## Active Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bakdrop](https://github.com/mateusznitka/bakdrop) - Simple file sharing web app written in PHP
+- [Protocols Manager](https://github.com/mateusznitka/protocolsmanager) - GLPI plugin for making user assets PDF documents
+- [Paragraph Break](https://github.com/mateusznitka/obsidian-paragraph-break) - Obsidian plugin changing default Enter behavior to create new paragraph instead of soft-line break
+
+## MTNT Blog
+My blog about backups, security, homelabs and more.
+
+- 🇬🇧 ENG: [mtnt.pl/blog/en/](https://mtnt.pl/blog/en/)
+- 🇵🇱 PL: [mtnt.pl/blog/](https://mtnt.pl/blog/)
+
+## Contact
+- ✉️ [mtnt.pl/#contact](https://mtnt.pl/en/#contact)
+
